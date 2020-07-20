@@ -20,7 +20,7 @@ During April and May of 2020, the DMSC hosted a series of webinars on how to get
 
 ---
 
-### [What's New in QIF 3](https://qualityinformationframework.github.io/QIF3.0ChangesFrom2.1.pdf)
+### [QIF3新消息](https://qualityinformationframework.github.io/QIF3.0ChangesFrom2.1.pdf)
 
 Curious about what, specifically, is new in QIF 3? [Click here for a detailed set of changes](https://qualityinformationframework.github.io/QIF3.0ChangesFrom2.1.pdf) from QIF 2.1 to QIF 3, courtesy of [Dr. Tom Kramer](https://www.nist.gov/people/thomas-kramer). 
 
