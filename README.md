@@ -8,7 +8,7 @@
 | [**QIF3 "Issues" List**](https://github.com/QualityInformationFramework/qif-community/issues)  <br> This is for more than just flagging issues with the QIF standard. Here is where you can interact with the rest of the community: ask questions about your implementation, submit enhancements requests, and ask general questions about QIF.   | [![](img/issues.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/issues) |
 | [![](img/website.png?raw=true)](http://qifstandards.org/)   | [**QIF Standard Website**](http://qifstandards.org/) <br> The main QIF website. This is where you can download the standard, including the schemas and the documentation. It's free, [go and get it](http://qifstandards.org/download/)! |
 
-### [Getting Started with QIF](https://qifstandards.org/qif-implementation-tutorials/)
+### [如何啟動QIF](https://qifstandards.org/qif-implementation-tutorials/)
 
 During April and May of 2020, the DMSC hosted a series of webinars on how to get started with QIF. The 3 webinars were titled: 
 
