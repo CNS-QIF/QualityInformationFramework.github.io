@@ -25,7 +25,7 @@
 對QIF 3中的新增功能特別感興趣嗎？ [點擊此處查看詳細的更改](https://qualityinformationframework.github.io/QIF3.0ChangesFrom2.1.pdf) from QIF 2.1 to QIF 3, courtesy of [Dr. Tom Kramer](https://www.nist.gov/people/thomas-kramer). 
 
 
-### [台灣山衛公司 負責台灣的QIF推動]()
+### [台灣山衛公司 負責台灣的QIF推動 - 建構中.....]()
 
 ### [中華民國品質學會 - QIF技術師培訓訊息 - 建構中.....]()
 ---
