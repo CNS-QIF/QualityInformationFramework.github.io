@@ -12,7 +12,6 @@
 | [![](img/CSQ.png?raw=true)](http://qifstandards.org/)   | **QIF 101：了解QIF基礎知識**  <br> 首先，必須了解ANSI / DMSC質量信息框架（QIF）互操作性標準的基礎。 DMSC總裁Curtis Brown討論了什麼是QIF，其重要性以及如何為基於模型的企業（MBE）提供好處。 <br>  [點擊觀看網絡研討會](https://youtu.be/3vsDCkxfIZg?DMSC=QIFTutorials)  <br> [下載QIF 101演示文稿](https://qifstandards.org/wp-content/uploads/2014/08/QIF-Webinar-PDF-Combined.pdf) |
 | [![](img/docs.png?raw=true)](https://qualityinformationframework.github.io/qif3-browser/qif3.html)   |  **QIF 201：概述QIF框架** <br>DMSC董事會主任Daniel Campbell回顧了該標準的技術，QIF的結構以及QIF架構的頂級數據元素。<br>  [點擊觀看網絡研討會](https://youtu.be/_OqZzdjB5lo?DMSC=QIFTutorials)  <br> [下載QIF 201演示文稿（向下滾動到QIF 201）](https://qifstandards.org/wp-content/uploads/2014/08/QIF-Webinar-PDF-Combined.pdf) |
 | [![](img/docs.png?raw=true)](https://qualityinformationframework.github.io/qif3-browser/qif3.html)   |  **QIF 301：QIF3.0實施入門指南** <br>DMSC成員Tom Kramer獲得了更多技術，因為我們共享一種實現QIF的代碼編寫方式。 Tom遵循使用通用編碼語言的代碼編寫方法。 觀看者可以更好地了解QIF是什麼，如何使用和實施QIF，以及為什麼連接的數字網絡/物理企業需要它。<br>  [點擊觀看網絡研討會](https://youtu.be/F-hHwdNUy_M?DMSC=QIFTutorials)  <br> [下載QIF 301演示文稿（向下滾動到QIF 301）](https://qifstandards.org/wp-content/uploads/2014/08/QIF-Webinar-PDF-Combined.pdf) |
-### [如何啟動QIF(美國)](https://qifstandards.org/qif-implementation-tutorials/)
 
 ---
 
