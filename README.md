@@ -5,7 +5,7 @@
 | [![](img/docs.png?raw=true)](https://qualityinformationframework.github.io/qif3-browser/qif3.html)   |  [**QIF3框架瀏覽器**(美國)](https://qualityinformationframework.github.io/qif3-browser/qif3.html) <br>您是否正在忙於編寫對QIF格式的支持？這是一個在線位置，您可以在其中瀏覽QIF模式的內容。易於使用！ |
 | [**QIF3 樣本事例眾文檔**(美國)](https://github.com/QualityInformationFramework/qif-community/tree/master/samples) <br> 這是一組範例QIF3文件。這些應該有助於您了解QIF可以支持您的企業的所有不同方式！ | [![](img/samples.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/tree/master/samples) |
 | [![](img/bindings.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/tree/master/bindings)   | [**綁定程式原碼**(美國)](https://github.com/QualityInformationFramework/qif-community/tree/master/bindings) <br> 在這裡，您將找到綁定的方法，以幫助您自動生成程式原碼，以開始使用C ++，C＃和Python讀寫QIF文件。您會驚訝於開始推送一些QIF原碼如此容易。     |
-| [**QIF3課題清單**(中華民國)](https://github.com/CNS-QIF/QualityInformationFramework.github.io/issues)  <br> 這不僅僅是標記QIF標準的問題。在這裡，您可以與社區的其他成員進行交互：提出有關實施的問題，提交增強功能請求，以及提出有關QIF的一般性問題。   | [![](img/issues.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/issues) |
+| [**QIF3課題清單**(台北)](https://github.com/CNS-QIF/QualityInformationFramework.github.io/issues)  <br> 這不僅僅是標記QIF標準的問題。在這裡，您可以與社區的其他成員進行交互：提出有關實施的問題，提交增強功能請求，以及提出有關QIF的一般性問題。   | [![](img/issues.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/issues) |
 | [![](img/website.png?raw=true)](http://qifstandards.org/)   | [**QIF標準網站**(美國)](http://qifstandards.org/) <br> QIF主要網站。您可以在這裡下載標準，包括架構和文檔。它是免費的，[開始並獲得它](http://qifstandards.org/download/)! |
 
 ### [如何啟動QIF(美國)](https://qifstandards.org/qif-implementation-tutorials/)
