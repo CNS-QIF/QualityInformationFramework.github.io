@@ -7,8 +7,8 @@
 | [![](img/bindings.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/tree/master/bindings)   | [**綁定程式原碼**(美國)](https://github.com/QualityInformationFramework/qif-community/tree/master/bindings) <br> 在這裡，您將找到綁定的方法，以幫助您自動生成程式原碼，以開始使用C ++，C＃和Python讀寫QIF文件。您會驚訝於開始推送一些QIF原碼如此容易。     |
 | [**QIF3課題清單**(台北)](https://github.com/CNS-QIF/QualityInformationFramework.github.io/issues)  <br> 這不僅僅是標記QIF標準的問題。在這裡，您可以與社區的其他成員進行交互：提出有關實施的問題，提交增強功能請求，以及提出有關QIF的一般性問題。   | [![](img/issues.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/issues) |
 | [![](img/website.png?raw=true)](http://qifstandards.org/)   | [**QIF標準網站**(美國)](http://qifstandards.org/) <br> QIF主要網站。您可以在這裡下載標準，包括架構和文檔。它是免費的，[開始並獲得它](http://qifstandards.org/download/)! |
-| [**山衛科技公司 - 負責台灣的QIF推動 - 建構中.....**(台北)](https://www.samwells.com/bc/)  <br> 負責本地的QIF推動。   | [![](img/samwell.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/issues) |
-| [![](img/CSQ.png?raw=true)](http://qifstandards.org/)   | [**品質學會 - QIF技術師培訓訊息 - 建構中.....](http://www.csq.org.tw/mp.asp?mp=1) <br> QIF技術師培訓訊息[數位計量技術師培訓](http://www.csq.org.tw/mp.asp?mp=1)! |
+| [**山衛科技公司 - 推動兩岸QIF - 建構中.....**(台北)](https://www.samwells.com/bc/)  <br> 本地QIF技術推廣。   | [![](img/samwell.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/issues) |
+| [![](img/CSQ.png?raw=true)](http://qifstandards.org/)   | [**品質學會 - QIF技術師培訓訊息 - 建構中.....](http://www.csq.org.tw/mp.asp?mp=1) <br> [數位計量技術師培訓](http://www.csq.org.tw/mp.asp?mp=1)! |
 ### [如何啟動QIF(美國)](https://qifstandards.org/qif-implementation-tutorials/)
 
 在2020年4月和5月期間，DMSC舉辦了一系列有關如何開始使用QIF的網絡研討會。 3個網絡研討會的標題為：
@@ -26,9 +26,6 @@
 對QIF 3中的新增功能特別感興趣嗎？ [點擊此處查看詳細的更改(美國)](https://qualityinformationframework.github.io/QIF3.0ChangesFrom2.1.pdf) from QIF 2.1 to QIF 3, courtesy of [Dr. Tom Kramer](https://www.nist.gov/people/thomas-kramer). 
 
 
-### [山衛科技公司 - 負責本地的QIF推動 - 建構中.....]()
-
-### [品質學會 - QIF技術師培訓訊息 - 建構中.....]()
 ---
   
 感謝您的光臨！ [如果有任何疑問，請在這裡與我們聯繫！(美國)](https://qifstandards.org/contact/)
