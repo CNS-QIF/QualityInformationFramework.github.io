@@ -2,7 +2,7 @@
 
 |  |  |
 | :---        |     :---      |
-| [![](img/docs.png?raw=true)](https://qualityinformationframework.github.io/qif3-browser/qif3.html)   |  [**QIF3框架瀏覽器**(美國)](https://qualityinformationframework.github.io/qif3-browser/qif3.html) <br>您是否正在忙於撰寫支援QIF格式的文句？這是乙處在線位置，您可以就在這裡瀏覽QIF模型的內容。使用十分簡易！ |
+| [![](img/docs.png?raw=true)](https://qualityinformationframework.github.io/qif3-browser/qif3.html)   |  [**QIF3框架瀏覽器**(美國)](https://qualityinformationframework.github.io/qif3-browser/qif3.html) <br>您是否正在忙著撰寫支援QIF格式的文句？這是乙處在線位置，您可以就在這裡瀏覽QIF模型的內容。使用十分簡易！ |
 | [**QIF3 樣本事例眾文檔**(美國)](https://github.com/QualityInformationFramework/qif-community/tree/master/samples) <br> 這是幾隻範例QIF3文檔。有助於您了解QIF能以多重方式支援貴企業！ | [![](img/samples.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/tree/master/samples) |
 | [![](img/bindings.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/tree/master/bindings)   | [**綁定程式原碼**(美國)](https://github.com/QualityInformationFramework/qif-community/tree/master/bindings) <br> 在這裡，您將查獲綁定方法，幫助您自動生成程式原碼，開始使用C ++，C＃和Python，進行讀寫QIF文件夾。您會驚訝於動手推送QIF原碼竟然如此容易。     |
 | [**QIF3課題清單**(台北)](https://github.com/CNS-QIF/QualityInformationFramework.github.io/issues)  <br> 這不僅僅是QIF標準的標記問題。在這裡，您還可以與社群眾友好交流：陳述攸關執行的各式問題，提出增強功能的奧援請求，以及其他QIF點點滴滴。   | [![](img/issues.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/issues) |
