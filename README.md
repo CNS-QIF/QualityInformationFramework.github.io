@@ -9,7 +9,7 @@
 | [![](img/website.png?raw=true)](http://qifstandards.org/)   | [**QIF標準網站**(美國)](http://qifstandards.org/) <br> QIF主要網站。您可以在這裡下載標準，包括架構和文檔。它是免費的，[開始並獲得它](http://qifstandards.org/download/)! |
 | [**山衛科技公司 - 推動兩岸QIF - 建構中.....**(台北)](https://www.samwells.com/bc/)  <br> 本地QIF技術推廣。   | [![](img/samwell.png?raw=true)](https://github.com/QualityInformationFramework/qif-community/issues) |
 | [![](img/CSQ.png?raw=true)](http://qifstandards.org/)   | [**品質學會 - QIF技術師培訓訊息 - 建構中.....**](http://www.csq.org.tw/mp.asp?mp=1) <br> [數位計量技術師培訓](http://www.csq.org.tw/mp.asp?mp=1) |
-| [![](img/CSQ.png?raw=true)](http://qifstandards.org/)   | [**QIF 101：了解QIF基礎知識**]<br> 首先，必須了解ANSI / DMSC質量信息框架（QIF）互操作性標準的基礎。 DMSC總裁Curtis Brown討論了什麼是QIF，其重要性以及如何為基於模型的企業（MBE）提供好處。 <br>  [點擊觀看網絡研討會](https://youtu.be/3vsDCkxfIZg?DMSC=QIFTutorials)  <br> [下載QIF 101演示文稿](https://qifstandards.org/wp-content/uploads/2014/08/QIF-Webinar-PDF-Combined.pdf) |
+| [![](img/CSQ.png?raw=true)](http://qifstandards.org/)   | [**QIF 101：了解QIF基礎知識**]  <br> 首先，必須了解ANSI / DMSC質量信息框架（QIF）互操作性標準的基礎。 DMSC總裁Curtis Brown討論了什麼是QIF，其重要性以及如何為基於模型的企業（MBE）提供好處。 <br>  [點擊觀看網絡研討會](https://youtu.be/3vsDCkxfIZg?DMSC=QIFTutorials)  <br> [下載QIF 101演示文稿](https://qifstandards.org/wp-content/uploads/2014/08/QIF-Webinar-PDF-Combined.pdf) |
 | [![](img/docs.png?raw=true)](https://qualityinformationframework.github.io/qif3-browser/qif3.html)   |  [**QIF 201：概述QIF框架**] <br>DMSC董事會主任Daniel Campbell回顧了該標準的技術，QIF的結構以及QIF架構的頂級數據元素。<br>  [點擊觀看網絡研討會](https://youtu.be/_OqZzdjB5lo?DMSC=QIFTutorials)  <br> [下載QIF 201演示文稿（向下滾動到QIF 201）](https://qifstandards.org/wp-content/uploads/2014/08/QIF-Webinar-PDF-Combined.pdf) |
 ### [如何啟動QIF(美國)](https://qifstandards.org/qif-implementation-tutorials/)
 
