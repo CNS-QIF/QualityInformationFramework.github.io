@@ -14,14 +14,6 @@
 | [![](img/docs.png?raw=true)](https://qualityinformationframework.github.io/qif3-browser/qif3.html)   |  **QIF 301：QIF3.0實施入門指南** <br>DMSC成員Tom Kramer獲得了更多技術，因為我們共享一種實現QIF的代碼編寫方式。 Tom遵循使用通用編碼語言的代碼編寫方法。 觀看者可以更好地了解QIF是什麼，如何使用和實施QIF，以及為什麼連接的數字網絡/物理企業需要它。<br>  [點擊觀看網絡研討會](https://youtu.be/F-hHwdNUy_M?DMSC=QIFTutorials)  <br> [下載QIF 301演示文稿（向下滾動到QIF 301）](https://qifstandards.org/wp-content/uploads/2014/08/QIF-Webinar-PDF-Combined.pdf) |
 ### [如何啟動QIF(美國)](https://qifstandards.org/qif-implementation-tutorials/)
 
-在2020年4月和5月期間，DMSC舉辦了一系列有關如何開始使用QIF的網絡研討會。 3個網絡研討會的標題為：
-
-* QIF 101: Understanding QIF Basics (了解QIF基礎)
-* QIF 201: Outlining the QIF Schemas (概述QIF框架)
-* QIF 301: A Beginner’s Guide to QIF3.0 Implementation (QIF3.0實施入門指南)
-
-[單擊QIF網站上的此頁面以重新觀看這些網絡研討會，或下載演示文稿。](https://qifstandards.org/qif-implementation-tutorials/) 
-
 ---
 
 ### [QIF3新消息]
